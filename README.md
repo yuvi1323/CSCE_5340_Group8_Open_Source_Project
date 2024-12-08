@@ -12,9 +12,9 @@ Technologies Used
 •	Frontend: React, Vite
 •	Additional Libraries:
 - requests for API requests
-- wordcloud for generating the word cloud
-- matplotlib for saving the word cloud as an image
-- dotenv for managing environment variables
+- 'wordcloud' for generating the word cloud
+- 'matplotlib' for saving the word cloud as an image
+- 'dotenv' for managing environment variables
 •	API: NewsAPI
 
 Setup Instructions
